@@ -1,0 +1,50 @@
+[
+  {
+    "date": "01-01-2025",
+    "name": "Leanne Graham",
+    "age": 38,
+    "country": "USA",
+    "occupation": "Devops Engineer",
+    "salary": 3000
+  },
+  {
+    "date": "02-01-2025",
+    "name": "Ervin Howell",
+    "age": 27,
+    "country": "USA",
+    "occupation": "Software Engineer",
+    "salary": 2300
+  },
+  {
+    "date": "03-01-2025",
+    "name": "Clementine Bauch",
+    "age": 17,
+    "country": "Canada",
+    "occupation": "Student",
+    "salary": null
+  },
+  {
+    "date": "04-01-2025",
+    "name": "Patricia Lebsack",
+    "age": 42,
+    "country": "UK",
+    "occupation": "Software Engineer",
+    "salary": 2800
+  },
+  {
+    "date": "05-01-2025",
+    "name": "Leanne Bell",
+    "age": 38,
+    "country": "USA",
+    "occupation": "Senior Software Engineer",
+    "salary": 4000
+  },
+  {
+    "date": "06-01-2025",
+    "name": "Chelsey Dietrich",
+    "age": 32,
+    "country": "USA",
+    "occupation": "Software Engineer",
+    "salary": 3500
+  }
+]
